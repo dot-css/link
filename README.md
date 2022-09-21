@@ -6,7 +6,7 @@ Classes:
 
   Buttons:
   
-  simple Buttons:
+  Simple Buttons:
     
     <button type="button" class="btn">Basic</button>
     <button type="button" class="btn btn-primary">Primary</button>
