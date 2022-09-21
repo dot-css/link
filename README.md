@@ -29,3 +29,9 @@ Classes:
     <button type="button" class="btn btn-outline-danger">Danger</button>
     <button type="button" class="btn btn-outline-dark">Dark</button>
     <button type="button" class="btn btn-outline-light text-dark">Light</button>
+    
+ Button Sizes:
+ 
+    <button type="button" class="btn btn-primary btn-lg">Large</button>
+    <button type="button" class="btn btn-primary">Default</button>
+    <button type="button" class="btn btn-primary btn-sm">Small</button>
